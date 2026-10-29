@@ -2,6 +2,8 @@
 
 # Here is a new update by essmatx
 
+# Here is another update by essmatx
+
 ## Input package weight and shipping rate
 weight = float(input("Enter the package weight in kilograms: "))
 rate = float(input("Enter the shipping rate per kilogram: "))
